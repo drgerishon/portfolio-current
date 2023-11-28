@@ -35,7 +35,7 @@ const Navbar = () => {
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
               <ScrollLink to="home">
                 <div className="container cursor-pointer flex items-center space-x-2">
-                  <h2 className="text-2xl font-bold">Gerishon Kung'u Waichua</h2>
+                  <h2 className="text-2xl font-bold">Gerishon Kung&apos;u Waichua</h2>
                 </div>
               </ScrollLink>
               <div className="md:hidden">
