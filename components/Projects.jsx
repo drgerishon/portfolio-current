@@ -90,8 +90,8 @@ const Projects = () => {
                       <Image
                         src={project.image}
                         alt=""
-                        width={1000}
-                        height={1000}
+                        width={800}
+                        height={800}
                         className="rounded-xl shadow-xl hover:opacity-70"
                       />
                     </Link>
